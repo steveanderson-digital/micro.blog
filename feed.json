@@ -7,12 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://sadigital.micro.blog/2026/04/02/too-large-for-humans-alone/",
+				"title": "\"Too large for humans alone\"",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "<blockquote>(5:42) Multiple AIs working with multiple humans, each contributing what the others couldn't. That's not 'AI solves math problem.' That's a new way of doing science. And if it works for Graph Theory, it works for drug discovery, for material science, for any field where the search space is too large for humans alone, and too structured for brute force.</blockquote>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/t9Cl3mJTOy0?si=YU3t7B2O33gnGQOU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"date_published": "2026-04-02T17:57:09-07:00",
+				"url": "https://steveanderson.digital/2026/04/02/too-large-for-humans-alone/",
+				"tags": ["artificial intelligence"]
+			},
+			{
 				"id": "http://sadigital.micro.blog/2026/03/29/were-at-a-fork-in/",
 				"title": "\"We're at a fork in the road\"",
 				"content_html": "<p><!-- raw HTML omitted -->How to spot fake AI photos | Hany Farid | TED April 2025<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<a href=\"https://www.ted.com/talks/hany_farid_how_to_spot_fake_ai_photos\">How to spot fake AI photos | Hany Farid | TED April 2025</a>\n\n<blockquote>(8:20) I think this image is a bit of a metaphor for how a lot of us feel. We feel like hostages. We don't know what to trust anymore. We don't know what is real. What is fake. But we don't have to be hostages. We don't have to succumb to the worst human instincts that pollute our online communities. We have agency, and we can effect change.</blockquote>\n\n<blockquote>(11:02) We're at a fork in the road. One path, we can keep doing what we've been doing for 20 years, allowing technology to rip us apart as a society, sowing distrust, hate, intolerance. Or we can change paths. We can find a new way to leverage the power of technology to work for us and with us, and not against us. That choice is entirely ours.</blockquote>\n\n<div style=\"max-width:1024px\"><div style=\"position:relative;height:0;padding-bottom:56.25%\"><iframe src=\"https://embed.ted.com/talks/hany_farid_how_to_spot_fake_ai_photos\" width=\"1024px\" height=\"576px\" title=\"How to spot fake AI photos\" style=\"position:absolute;left:0;top:0;width:100%;height:100%\"  frameborder=\"0\" scrolling=\"no\" allow=\"autoplay; fullscreen; picture-in-picture\" allowfullscreen webkitallowfullscreen mozallowfullscreen onload=\"window.parent.postMessage('iframeLoaded', 'https://embed.ted.com')\"></iframe></div></div>\n",
 				"date_published": "2026-03-29T15:13:44-07:00",
-				"url": "https://steveanderson.digital/2026/03/29/were-at-a-fork-in/"
+				"url": "https://steveanderson.digital/2026/03/29/were-at-a-fork-in/",
+				"tags": ["artificial intelligence"]
 			},
 			{
 				"id": "http://sadigital.micro.blog/2026/03/25/just-a-bigger-roller-coaster/",
@@ -20,7 +30,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
 				"content_text": "<p><a href=\"https://computerhistory.org/apple-at-50/\">CHM Live | Apple at 50: Five Decades of Thinking Different</a></p>\n\n<blockquote> (1:14:10, <a href=\"https://en.wikipedia.org/wiki/Avie_Tevanian\">Avie Tevanian</a>) A couple days before Christmas (1996), we signed the deal, to be purchased by Apple. And we thought this was great, 'cause <a href=\"https://en.wikipedia.org/wiki/NeXT\">NeXT</a> was a total roller coaster ride, ups and downs like crazy, and now we've got the power of Apple behind us, we're gonna get our software out there, we're gonna rebuild the company, fix it all. (<a href=\"https://en.wikipedia.org/wiki/Chris_Espinosa\">Chris Espinosa</a>) It was just a bigger roller coaster, Avie.</blockquote>\n\n<blockquote>(1:20:48, Avie Tevanian) And it wasn't even just the technology, it was dealing with the people, that was the hardest part.</blockquote>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/eCSNJgI2LFI?si=_u6EJmVMnZRSZELu\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
 				"date_published": "2026-03-25T17:33:16-07:00",
-				"url": "https://steveanderson.digital/2026/03/25/just-a-bigger-roller-coaster/"
+				"url": "https://steveanderson.digital/2026/03/25/just-a-bigger-roller-coaster/",
+				"tags": ["digital culture","history"]
 			},
 			{
 				"id": "http://sadigital.micro.blog/2026/03/10/the-robot-of-invention/",
