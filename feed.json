@@ -9,8 +9,8 @@
 			{
 				"id": "http://sadigital.micro.blog/2026/04/02/too-large-for-humans-alone/",
 				"title": "\"Too large for humans alone\"",
-				"content_html": "<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Don Knuth&rsquo;s paper, &ldquo;Claude&rsquo;s Cycles&rdquo; (published February 28, 2026).<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "<blockquote>(5:42) Multiple AIs working with multiple humans, each contributing what the others couldn't. That's not 'AI solves math problem.' That's a new way of doing science. And if it works for Graph Theory, it works for drug discovery, for material science, for any field where the search space is too large for humans alone, and too structured for brute force.</blockquote>\n\n<a href=\"https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf\">Don Knuth's paper, \"Claude's Cycles\" (published February 28, 2026).</a>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/t9Cl3mJTOy0?si=YU3t7B2O33gnGQOU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Don Knuth&rsquo;s paper, &ldquo;Claude&rsquo;s Cycles&rdquo; (published February 28, 2026).<!-- raw HTML omitted --></p>\n",
+				"content_text": "<blockquote>(5:42) Multiple AIs working with multiple humans, each contributing what the others couldn't. That's not 'AI solves math problem.' That's a new way of doing science. And if it works for Graph Theory, it works for drug discovery, for material science, for any field where the search space is too large for humans alone, and too structured for brute force.</blockquote>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/t9Cl3mJTOy0?si=YU3t7B2O33gnGQOU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>\n\n<a href=\"https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf\">Don Knuth's paper, \"Claude's Cycles\" (published February 28, 2026).</a>\n",
 				"date_published": "2026-04-02T17:57:09-07:00",
 				"url": "https://steveanderson.digital/2026/04/02/too-large-for-humans-alone/",
 				"tags": ["artificial intelligence"]
@@ -562,7 +562,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img title=\"500003057-03-01.jpg\" src=\"https://cdn.uploads.micro.blog/215146/2025/500003057-03-01.jpg\" alt=\"Programmer standing beside punched cards\" width=\"423\" height=\"600\" border=\"0\" /></p>\n<p>“Programmer standing beside punched cards” “This stack of 62,500 punched cards — 5 MB worth — held the control program for the giant SAGE military computer network.” ca. 1955 (via the <a href=\"http://www.computerhistory.org/revolution/memory-storage/8/326\">Computer History Museum</a>)</p>\n<p>Explaining data storage in a visual way has always been difficult, but especially so with the transition to magnetic tape in the 1950s and 1960s.</p>\n<p>Photographs of punched cards help show the enormity of the task at hand, and also the materiality of the information.</p>\n<p>5 megabytes of data seems pretty insignificant nowadays, when terabyte hard drives are a common feature in personal computers.</p>\n<p>1 TB = 1,000,000 MB (now that would be a lot of punched cards!)</p>\n<p>From the Computer History Museum’s online exhibit on <a href=\"http://www.computerhistory.org/revolution/memory-storage/8/intro\">Memory and Storage</a>.</p>\n<p><small>(Revised and republished April 2nd, 2025)</small></p>\n",
 				"date_published": "2015-03-05T17:43:09-07:00",
-				"url": "https://steveanderson.digital/2015/03/05/mb-of-data-on-punched/"
+				"url": "https://steveanderson.digital/2015/03/05/mb-of-data-on-punched/",
+				"tags": ["digital culture","history"]
 			},
 			{
 				"id": "http://sadigital.micro.blog/2015/03/03/punch-card-jam-needs-some/",
@@ -570,7 +571,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>In 2010, representatives from the Computer History Museum visited a company in Texas still using an IBM 402 mainframe for everyday accounting jobs: <a href=\"http://ibm-1401.info/402.html\">http://ibm–1401.info/402.html</a></p>\n<p><img title=\"402-Trip-Force-.jpg\" src=\"https://cdn.uploads.micro.blog/215146/2025/31eb31efd7.jpg\" alt=\"Punch cards stuck in computer.\" width=\"933\" height=\"700\" border=\"0\" /></p>\n<p>“Jam needs SOME force”</p>\n<hr />\n<p><img title=\"402-Trip-JamFront-.jpg\" src=\"https://cdn.uploads.micro.blog/215146/2025/402-trip-jamfront-.jpg\" alt=\"Front view of jammed punch cards.\" width=\"525\" height=\"700\" border=\"0\" /></p>\n<p>“Card Jam Front View”</p>\n<hr />\n<p>The article below mentions the CHM trip to Texas, and a few other old computers still in use:</p>\n<p><a href=\"https://web.archive.org/web/20150129112116/http://www.pcworld.com/article/249951/if_it_aint_broke_dont_fix_it_ancient_computers_in_use_today.html?page=0\">If It Ain’t Broke, Don’t Fix It: Ancient Computers in Use Today</a>, by Benj Edwards at <cite>PCWorld</cite>, 2012 (Internet Archive: Wayback Machine)</p>\n<blockquote>\n<p>The biggest problem with maintaining such ancient computer systems is that the original technicians who knew how to configure and maintain them have long since retired or passed away, so no one is left with the knowledge required to fix them if they break.</p>\n</blockquote>\n<p><small>(Revised and republished April 2nd, 2025)</small></p>\n",
 				"date_published": "2015-03-03T15:24:46-07:00",
-				"url": "https://steveanderson.digital/2015/03/03/punch-card-jam-needs-some/"
+				"url": "https://steveanderson.digital/2015/03/03/punch-card-jam-needs-some/",
+				"tags": ["digital culture","history"]
 			},
 			{
 				"id": "http://sadigital.micro.blog/2015/02/25/mainframes-are-so-years-ago/",
@@ -623,7 +625,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><a href=\"https://airandspace.si.edu/exhibition/outside-spacecraft/index.html\">Outside the Spacecraft</a>, an interactive museum exhibit at the Smithsonian National Air and Space Museum. High resolution photographs, insight into curation and preservation techniques, even checklists and paperwork.</p>\n<p><img title=\"9637.jpg\" src=\"https://cdn.uploads.micro.blog/215146/2025/9637.jpg\" alt=\"NASA EVA checklist.\" width=\"750\" height=\"1000\" border=\"0\" /></p>\n<p>The exhibit reminded me of this recent tweet by The Onion:</p>\n<blockquote>\n<p>Otherwise Reasonable Man Sincerely Believes U.S. Landed On Moon: <a href=\"https://theonion.com/otherwise-reasonable-man-sincerely-believes-u-s-landed-1819577485/\">The Onion</a></p>\n<p>(@TheOnion)</p>\n<p>February 17, 2015</p>\n</blockquote>\n<p><small>(Revised and republished April 13th, 2025)</small></p>\n",
 				"date_published": "2015-02-18T11:47:16-07:00",
-				"url": "https://steveanderson.digital/2015/02/18/outside-the-spacecraft-nasm/"
+				"url": "https://steveanderson.digital/2015/02/18/outside-the-spacecraft-nasm/",
+				"tags": ["digital culture","history"]
 			},
 			{
 				"id": "http://sadigital.micro.blog/2015/02/18/archive-team-robotstxt-is-a/",
@@ -721,7 +724,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><a href=\"http://www.hagley.org/librarynews/filing-cabinets-neglected-piece-business-history\">Filing Cabinets, a Neglected Piece of Business History</a>, by Linda Gross, the Hagley Library:</p>\n<blockquote>\n<p>Dr. Robertson is an associate professor of media history at Northeastern University. He explained to us that he is currently researching the early history of the filing cabinet (1890s-1930s). Robertson contends that the filing cabinet has been largely neglected in the history of information technologies, with punch card machines (a clearer precursor to computers) taking a leading role in histories of early 20th century information technologies—this despite the importance of “files” and folders” to how we organize information on computers.</p>\n</blockquote>\n<hr />\n<p><img title=\"DC002_0221_01-1024px.jpg\" src=\"https://cdn.uploads.micro.blog/215146/2025/dc002-0221-01-1024px.jpg\" alt=\"Ad for Remington Rand showing a filing cabinet.\" width=\"774\" height=\"1024\" border=\"0\" /></p>\n<p><a href=\"https://digital.hagley.org/cdm/compoundobject/collection/p268001coll12/id/7428/rec/1\">“This Big, Urgent Question of Protection for Operating Files and Records,”</a> Remington Rand Inc. brochure, ca. 1948, Hagley Digital Archives.</p>\n<p><small>(Revised and republished April 2nd, 2025)</small></p>\n",
 				"date_published": "2015-02-11T19:46:15-07:00",
-				"url": "https://steveanderson.digital/2015/02/11/files-and-folders-before-computers/"
+				"url": "https://steveanderson.digital/2015/02/11/files-and-folders-before-computers/",
+				"tags": ["history","paperwork"]
 			},
 			{
 				"id": "http://sadigital.micro.blog/2015/02/10/matthew-kirschenbaum-track-changes/",
@@ -729,7 +733,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>Kirschenbaum’s Tumblr blog on his book project - <a href=\"http://trackchangesbook.tumblr.com\">http://trackchangesbook.tumblr.com</a></p>\n<p><a href=\"http://harvardpress.typepad.com/hup_publicity/2012/01/matthew-kirschenbaum-literary-history-of-word-processing.html\">Matthew Kirschenbaum’s Literary History of Word Processing</a>, Harvard University Press blog post:</p>\n<blockquote>\n<p>It’s interesting to see how Kirschenbaum’s research on the effects of one technological innovation—word processing—is being so shaped by his own embrace of another, social networking. Until recently, it wasn’t often that we got to watch research unfold so publicly, but Kirschenbaum’s style of transparent, internet-based process documentation is becoming more and more common, especially among practitioners of the digital humanities.</p>\n</blockquote>\n<p>Over the years I’ve used WordStar, WordPerfect, Microsoft Word, and many other word processing programs. At the moment I’m moving to <a href=\"http://www.literatureandlatte.com/scrivener.php\">Scrivener</a> for larger projects like my dissertation, and Apple Pages for everyday writing. (In 2025, this has changed quite a bit!)</p>\n<p><img title=\"Wordstar_Screenshot.png\" src=\"https://cdn.uploads.micro.blog/215146/2025/wordstar-screenshot.png\" alt=\"Wordstar screenshot.\" width=\"599\" height=\"282\" border=\"0\" /></p>\n<p>WordStar running in DOS, ca. 1980s (via <a href=\"http://en.wikipedia.org/w/index.php?title=WordStar&amp;oldid=646933220\">Wikipedia</a>)</p>\n<p><small>(Revised and republished April 3rd, 2025)</small></p>\n",
 				"date_published": "2015-02-10T16:53:21-07:00",
-				"url": "https://steveanderson.digital/2015/02/10/matthew-kirschenbaum-track-changes/"
+				"url": "https://steveanderson.digital/2015/02/10/matthew-kirschenbaum-track-changes/",
+				"tags": ["digital humanities"]
 			},
 			{
 				"id": "http://sadigital.micro.blog/2015/02/10/gladwell-on-the-social-life/",
@@ -737,7 +742,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><img title=\"5-4-05ARTCC0007.jpg\" src=\"https://cdn.uploads.micro.blog/215146/2025/5-4-05artcc0007.jpg\" alt=\"Air traffic controller pointing to paper strips.\" width=\"340\" height=\"222\" border=\"0\" /></p>\n<p>Paper strips shown at <a href=\"https://web.archive.org/web/20121102200356/https://www.faa.gov/air_traffic/technology/atop/atop_photos/\">faa.gov</a> (Wayback Machine link)</p>\n<p>Malcolm Gladwell’s 2002 article on paperwork at <cite>The New Yorker</cite>.</p>\n<p><a href=\"https://web.archive.org/web/20150212231416/http://www.newyorker.com/magazine/2002/03/25/the-social-life-of-paper\">“The Social Life of Paper”</a> (Wayback Machine link)</p>\n<p>Gladwell.com link: <a href=\"https://web.archive.org/web/20150116134242/http://gladwell.com/the-social-life-of-paper/\">http://gladwell.com/the-social-life-of-paper/</a> (Wayback Machine link)</p>\n<blockquote>\n<p>It is only if paper’s usefulness is in the information written directly on it that it must be stored. If its usefulness lies in the promotion of ongoing creative thinking, then, once that thinking is finished, the paper becomes superfluous. The solution to our paper problem, they write, is not to use less paper but to keep less paper. Why bother filing at all? Everything we know about the workplace suggests that few if any knowledge workers ever refer to documents again once they have filed them away, which should come as no surprise, since paper is a lousy way to archive information. It’s too hard to search and it takes up too much space. Besides, we all have the best filing system ever invented, right there on our desks — the personal computer. That is the irony of the P.C.: the workplace problem that it solves is the nineteenth-century anxiety.</p>\n</blockquote>\n<p><small>(Revised and republished April 3rd, 2025)</small></p>\n",
 				"date_published": "2015-02-10T16:37:57-07:00",
-				"url": "https://steveanderson.digital/2015/02/10/gladwell-on-the-social-life/"
+				"url": "https://steveanderson.digital/2015/02/10/gladwell-on-the-social-life/",
+				"tags": ["digital humanities","paperwork"]
 			},
 			{
 				"id": "http://sadigital.micro.blog/2015/02/09/museums-and-digital-presence/",
@@ -745,7 +751,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>It’s wonderful to see museums considering their digital presence as an extension of their purpose – online exhibitions and other digital projects greatly enhance the collections. <a href=\"http://www.nytimes.com/2015/01/30/arts/design/art-museums-are-increasingly-adding-their-collections-online.html\">This article at <em>The New York Times </em></a>describes the interconnectivity between museums and visitors that the digital provides, and also the possibility of connection between museums themselves:</p>\n<blockquote>\n<p>Sooner or later, all museum websites will be interconnected, so that any museum might take advantage of scholarship produced by any other. There’s no reason, after all, that the Museum of Modern Art shouldn’t link its Jackson Pollock page to Pollock pages of museums throughout the world.</p>\n<p>...Where is all this going? The British Museum has a succinct answer in the concluding sentence of its About Us page: “The website is not merely a source of information about the collection and the museum, but a natural extension of its core purpose to be a laboratory of comparative cultural investigation.”</p>\n</blockquote>\n<p>I visited the “<a href=\"http://www.lacma.org/art/exhibition/contested-visions-spanish-colonial-world\">Contested Visions in the Spanish Colonial World</a>” exhibition at LACMA a few years ago, and thanks to their digital archive of the exhibit I’m able to share videos like this with my students.</p>\n<p><iframe title=\"YouTube video player\" src=\"https://www.youtube.com/embed/_UG1lNTWIfc?si=2HPjDWmhCk7hWDEQ\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"\"></iframe></p>\n<p><small>(Revised and republished April 19th, 2025)</small></p>\n",
 				"date_published": "2015-02-09T18:43:13-07:00",
-				"url": "https://steveanderson.digital/2015/02/09/museums-and-digital-presence/"
+				"url": "https://steveanderson.digital/2015/02/09/museums-and-digital-presence/",
+				"tags": ["digital humanities","teaching"]
 			},
 			{
 				"id": "http://sadigital.micro.blog/2015/02/09/q-a-with-craig-robertson/",
@@ -753,7 +760,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p><a href=\"http://www.bostonglobe.com/lifestyle/travel/2013/01/06/the-insider-craig-robertson-author-the-passport-america-the-history-document/0wPOizum6cnGWe07SeU9gK/story.html\">Craig Robertson</a>, by Christopher Klein at the <cite>Boston Globe</cite>, 2013.</p>\n<blockquote>\n<p>The assumption behind the system set up after World War I was that you needed an identity document. Of course, this is a time when very few people had driver’s licenses, so the birth certificate was the key document. The US didn’t achieve universal birth registration until 1933, however, and in 1942 the Census Bureau estimated that 40 percent of Americans still lacked birth certificates. So the State Department required those without birth certificates to get sworn statements from one of three people who was deemed to have been able to witness the birth: the mother, a doctor, or a midwife. And if none of those three were available, a friend who was a US citizen had to vouch for your citizenship. So you were no longer seen as a reliable source of your own identity. You needed someone else to verify it.</p>\n</blockquote>\n<hr />\n<p><img title=\"fred-soper-passport-history.jpg\" src=\"https://cdn.uploads.micro.blog/215146/2025/fred-soper-passport-history.jpg\" alt=\"Fred Soper US passport 1920.\" width=\"550\" height=\"783\" border=\"0\" /></p>\n<p>United States Passport for American epidemiologist, Fred Soper, 1920. <a href=\"https://profiles.nlm.nih.gov/spotlight/vv/catalog/nlm:nlmuid-101584650X86-img\">National Library of Medicine revised 2025 link, image doesn't seem to load</a>. <a href=\"https://web.archive.org/web/20110612022723/http://profiles.nlm.nih.gov/ps/access/VVBBGC.jpg\">Wayback Machine link for image</a>.</p>\n<p><small>(Revised and republished April 3rd, 2025)</small></p>\n",
 				"date_published": "2015-02-09T15:54:58-07:00",
-				"url": "https://steveanderson.digital/2015/02/09/q-a-with-craig-robertson/"
+				"url": "https://steveanderson.digital/2015/02/09/q-a-with-craig-robertson/",
+				"tags": ["digital humanities","paperwork"]
 			},
 			{
 				"id": "http://sadigital.micro.blog/2015/02/09/paperwork-studies-as-an-historical/",
@@ -834,7 +842,7 @@
 				"content_text": "<p>My post at Critical Digital Humanities on a recent workshop: TEI and Markup Fundamentals\n<a href=\"http://cdh.ucr.edu/2014/02/16/notes-on-tei-and-markup-fundamentals-workshop/\">http://cdh.ucr.edu/2014/02/16/notes-on-tei-and-markup-fundamentals-workshop/</a></p>\n<blockquote>\n<p>On February 13th I attended a workshop on TEI and Markup Fundamentals sponsored by the <a href=\"http://gradquant.ucr.edu/\">Graduate Quantitative Methods Program</a>. The workshop was given by Rochelle Gold and Kimberly Hall from the Department of English at UC Riverside.</p>\n<p><a href=\"https://www.tei-c.org/index.xml\">TEI (Text Encoding Initiative)</a> is a method of encoding texts with markup language for digital representation. TEI markup focuses on rendering the semantic qualities of texts more visible. For example, sentences and clauses can be marked within a text, as well as the lines and features of a poem. This granular level of encoding allows for digital representations of these texts to carry details and information beyond their normal forms, which is valuable for critical interpretation.</p>\n</blockquote>\n<p><a href=\"http://cdh.ucr.edu/2014/02/16/notes-on-tei-and-markup-fundamentals-workshop/\">→ read more at the original post</a></p>\n<p><small>(Revised and republished April 19th, 2025)</small></p>\n",
 				"date_published": "2014-02-16T04:27:02-07:00",
 				"url": "https://steveanderson.digital/2014/02/16/notes-on-tei-and-markup/",
-				"tags": ["digital humanities","workshops"]
+				"tags": ["digital humanities","workshops and talks"]
 			},
 			{
 				"id": "http://sadigital.micro.blog/2014/02/15/event-archive-rethinking-debates-on/",
@@ -843,7 +851,7 @@
 				"content_text": "<p>My post at Critical Digital Humanities on a recent talk:</p>\n<p><a href=\"http://cdh.ucr.edu/2014/02/13/event-archive-rethinking-debates-on-digital-learning-12-feb-2014/\">CDH Event Archive: Rethinking Debates on Digital Learning</a></p>\n<blockquote>\n<p>Yesterday <a href=\"http://cdh.ucr.edu/2014/02/10/rethinking-debates-on-digital-learning/\">CDH sponsored a talk by Professor Juliette Levy</a> of the Department of History at UC Riverside. In her discussion, Professor Levy described her own evolution toward using digital technology in order to broaden the learning experience for her students.</p>\n<p>Professor Levy’s talk began with a common experience many in academia have shared — traditional methods of teaching are not being adapted to the changing needs of students in our modern world.</p>\n<p>The <a href=\"https://youtu.be/zDZFcDGpL4U?feature=shared\">RSA talk by Sir Ken Robinson</a>, which was turned into an animated video, was central to describing this need for change. There is a great chasm between the needs of students and the pace of innovation within the classroom.</p>\n</blockquote>\n<p><a href=\"http://cdh.ucr.edu/2014/02/13/event-archive-rethinking-debates-on-digital-learning-12-feb-2014/\">→ read more at the original post</a></p>\n<p><small>(Revised and republished April 19th, 2025)</small></p>\n",
 				"date_published": "2014-02-15T03:54:03-07:00",
 				"url": "https://steveanderson.digital/2014/02/15/event-archive-rethinking-debates-on/",
-				"tags": ["digital humanities","workshops"]
+				"tags": ["digital humanities","workshops and talks"]
 			},
 			{
 				"id": "http://sadigital.micro.blog/2014/02/12/notes-on-virtual-lectures/",
